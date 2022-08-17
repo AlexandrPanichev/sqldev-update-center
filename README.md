@@ -1,2 +1,1 @@
-# sqldev-update-center
-sqldev-update-center
+# **Работа через расширение для SQL Developer**.
