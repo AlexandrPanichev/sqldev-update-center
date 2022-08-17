@@ -23,7 +23,7 @@ limitations under the License.
             <requires-extension id="oracle.sqldeveloper" minVersion="18.1.0"/>
         </requirements>
         <bundle-url>
-            https://github.com/AlexandrPanichev/sqldev-update-center/blob/main/sql_developer_ext_1.0.0-SNAPSHOT.zip
+            https://raw.githubusercontent.com/bjeffrie/sqldev-update-center/master/sql_developer_ext_1.0.0-SNAPSHOT.zip
         </bundle-url>
         <destination>${oracle.home}</destination>
     </update>
