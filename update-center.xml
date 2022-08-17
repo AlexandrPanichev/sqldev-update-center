@@ -17,13 +17,13 @@ limitations under the License.
         <name>Сравнение объектов БД</name>
         <version>18.1.0.18.093.2202</version>
         <author>panad</author>
-        <author-url>https://github.com/oracle/oracle-db-examples/tree/master/sqldeveloper/extension</author-url>
+        <author-url>https://github.com/AlexandrPanichev/</author-url>
         <description>Работа с GitLab через расширение для SQL Developer.</description>
         <requirements>
             <requires-extension id="oracle.sqldeveloper" minVersion="18.1.0"/>
         </requirements>
         <bundle-url>
-            https://srvgitlab.maxi-net.ru/devs/ts/docs/-/wikis/uploads/64a4806aa7b76d3f000d3b42c47257b7/sql_developer_ext_1.0.0-SNAPSHOT.zip
+            https://github.com/AlexandrPanichev/sqldev-update-center/blob/main/sql_developer_ext_1.0.0-SNAPSHOT.zip
         </bundle-url>
         <destination>${oracle.home}</destination>
     </update>
